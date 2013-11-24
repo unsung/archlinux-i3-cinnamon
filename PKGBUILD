@@ -11,7 +11,7 @@ pkgdesc='Setup awesome as window manager of Cinnamon 2.0'
 arch=('any')
 url='http://awesome.naquadah.org/wiki/Quickly_Setting_up_Awesome_with_Gnome'
 license=('CCPL')
-depends=('awesome' 'cinnamon>=1.9' 'notification-daemon')
+depends=('awesome' 'cinnamon>=2.0' 'notification-daemon')
 conflicts=('awesome-gnome')
 install=awesome-cinnamon.install
 source=($pkgname.desktop
