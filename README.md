@@ -1,4 +1,4 @@
-archlinux-awesome-gnome
+archlinux-awesome-cinnamon
 =======================
 
-PKGBUILDs for Gnome Integration with Awesome for ArchLinux
+PKGBUILDs for Cinnamon Integration with Awesome for ArchLinux
