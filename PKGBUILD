@@ -7,7 +7,7 @@
 pkgname=awesome-cinnamon
 pkgver=0.1
 pkgrel='2'
-pkgdesc='Setup awesome as window manager of Cinnamon 2.0'
+pkgdesc='Setup awesome to run with cinnamon-settings-daemon'
 arch=('any')
 url='https://github.com/clfarron4/archlinux-awesome-cinnamon/'
 license=('CCPL')
