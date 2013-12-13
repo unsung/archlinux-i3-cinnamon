@@ -6,8 +6,8 @@
 
 pkgname=awesome-cinnamon
 pkgver=0.1
-pkgrel='2'
-pkgdesc='Setup awesome to run with cinnamon-settings-daemon'
+pkgrel='3'
+pkgdesc='Launch awesome with cinnamon-settings-daemon'
 arch=('any')
 url='https://github.com/clfarron4/archlinux-awesome-cinnamon/'
 license=('CCPL')
