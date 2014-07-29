@@ -7,7 +7,7 @@ Instructions: Place
 - awesome-cinnamon.desktop in /usr/share/xsessions/
 - awesome.desktop in /usr/share/applications/
 - awesome.session in /usr/share/cinnamon-session/sessions/
+- Install the notification-daemon package from your distribution (needed for notifications to work).
 
 Known Issues:
 - Provides awesome.desktop, which is also provided by the awesome-gnome package from https://github.com/nekolover/archlinux-awesome-gnome
-- Requires the package notification-daemon, where the awesome-gnome package does not require it (this is for the notifications entry in awesome.session file).
