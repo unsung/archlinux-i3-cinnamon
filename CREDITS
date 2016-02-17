@@ -1,4 +1,13 @@
-This is a fork of the AUR awesome-gnome package. Original maintainers of the awesome-gnome package:
+This is a fork of the AUR awesome-cinnamon package which in turn is a fork of the AUR awesome-gnome
+package. The respective maintainers for these packages:
+
+i3-cinnamon by:
+Josh Manning <unsungmaster@gmail,com>
+
+awesome-cinnamon by:
+Claire Farron <diesal3@googlemail.com>
+
+Original maintainers of the awesome-gnome package:
 Rainux Luo <rainux@gmail.com>
 Daniel Wallace <daniel.wallace12@gmail.com>
 
@@ -6,6 +15,4 @@ Original instructions/package can be found at:
 http://awesome.naquadah.org/wiki/Quickly_Setting_up_Awesome_with_Gnome
 https://aur.archlinux.org/packages/awesome-gnome/
 https://github.com/nekolover/archlinux-awesome-gnome
-
-Cinnamon version by:
-Claire Farron <diesal3@googlemail.com>
+https://github.com/clfarron4/archlinux-awesome-cinnamon

@@ -1,6 +1,6 @@
 [Cinnamon Session]
-Name=Awesome session
-RequiredComponents=cinnamon-settings-daemon;awesome;
+Name=i3 session
+RequiredComponents=cinnamon-settings-daemon;i3;
 RequiredProviders=windowmanager;notifications;
-DefaultProvider-windowmanager=awesome
+DefaultProvider-windowmanager=i3
 DefaultProvider-notifications=notification-daemon

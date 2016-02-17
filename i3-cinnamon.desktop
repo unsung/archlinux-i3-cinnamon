@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=i3 Cinnamon
+Comment=Tiling window manager
+TryExec=/usr/bin/cinnamon
+Exec=cinnamon-session-cinnamon --session=i3
+Type=XSession
